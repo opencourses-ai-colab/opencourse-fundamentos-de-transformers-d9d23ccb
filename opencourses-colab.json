@@ -1,0 +1,131 @@
+{
+  "schema_version": "opencourses.colab.v1",
+  "course_id": "course_f06374b5a648d9d23ccb",
+  "title": "Fundamentos de Transformers",
+  "source_hash": "5dd1b102b10946437d759b701d13caac2755acafc4daa34a575d64fbefbef3d7",
+  "repo_owner": "opencourses-ai-colab",
+  "repo_name": "opencourse-fundamentos-de-transformers-d9d23ccb",
+  "branch": "main",
+  "generated_at": "2026-09-04T01:35:23.854Z",
+  "notebooks": [
+    {
+      "unit_id": "cmtma6ysy003doe01sid8760a",
+      "external_unit_id": "unit-1",
+      "title": "Presentación del curso",
+      "path": "notebooks/unit-1.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-1.ipynb"
+    },
+    {
+      "unit_id": "cmtma6yzz003foe01cf15pfu3",
+      "external_unit_id": "unit-2",
+      "title": "El problema de modelar secuencias",
+      "path": "notebooks/unit-2.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-2.ipynb"
+    },
+    {
+      "unit_id": "cmtma6z5h003hoe01vj7d5fd4",
+      "external_unit_id": "unit-3",
+      "title": "Tokens, vocabulario y batches",
+      "path": "notebooks/unit-3.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-3.ipynb"
+    },
+    {
+      "unit_id": "cmtma6zag003joe011fzw5zia",
+      "external_unit_id": "unit-4",
+      "title": "Embeddings y geometría de tokens",
+      "path": "notebooks/unit-4.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-4.ipynb"
+    },
+    {
+      "unit_id": "cmtma6zgs003loe01lresm56w",
+      "external_unit_id": "unit-5",
+      "title": "Posición y orden en secuencias",
+      "path": "notebooks/unit-5.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-5.ipynb"
+    },
+    {
+      "unit_id": "cmtma6znh003noe015y32tb3a",
+      "external_unit_id": "unit-6",
+      "title": "Tensores del Transformer",
+      "path": "notebooks/unit-6.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-6.ipynb"
+    },
+    {
+      "unit_id": "cmtma6zsw003poe01di0mqb6f",
+      "external_unit_id": "unit-7",
+      "title": "Atención como mezcla ponderada",
+      "path": "notebooks/unit-7.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-7.ipynb"
+    },
+    {
+      "unit_id": "cmtma6zy0003roe01xvomqnc0",
+      "external_unit_id": "unit-8",
+      "title": "Consultas, llaves y valores (Q, K y V)",
+      "path": "notebooks/unit-8.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-8.ipynb"
+    },
+    {
+      "unit_id": "cmtma7043003toe01xzym6u2w",
+      "external_unit_id": "unit-9",
+      "title": "Autoatención matricial (self-attention)",
+      "path": "notebooks/unit-9.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-9.ipynb"
+    },
+    {
+      "unit_id": "cmtma709c003voe01b07mjcta",
+      "external_unit_id": "unit-10",
+      "title": "Atención causal",
+      "path": "notebooks/unit-10.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-10.ipynb"
+    },
+    {
+      "unit_id": "cmtma70el003xoe01unodsntg",
+      "external_unit_id": "unit-11",
+      "title": "Atención multi-cabeza",
+      "path": "notebooks/unit-11.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-11.ipynb"
+    },
+    {
+      "unit_id": "cmtma70kl003zoe01ei8i4nbv",
+      "external_unit_id": "unit-12",
+      "title": "Residuales, LayerNorm y MLP",
+      "path": "notebooks/unit-12.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-12.ipynb"
+    },
+    {
+      "unit_id": "cmtma70pf0041oe013xkf4wjl",
+      "external_unit_id": "unit-13",
+      "title": "Bloque Transformer decoder",
+      "path": "notebooks/unit-13.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-13.ipynb"
+    },
+    {
+      "unit_id": "cmtma70ur0043oe0101gk6ffe",
+      "external_unit_id": "unit-14",
+      "title": "Mini-GPT desde cero",
+      "path": "notebooks/unit-14.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-14.ipynb"
+    },
+    {
+      "unit_id": "cmtma71080045oe01debe77s1",
+      "external_unit_id": "unit-15",
+      "title": "Entrenamiento autoregresivo",
+      "path": "notebooks/unit-15.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-15.ipynb"
+    },
+    {
+      "unit_id": "cmtma716c0047oe01jodlhcx0",
+      "external_unit_id": "unit-16",
+      "title": "Generación, interpretación y límites",
+      "path": "notebooks/unit-16.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-16.ipynb"
+    },
+    {
+      "unit_id": "cmtma71b80049oe010k60tn9w",
+      "external_unit_id": "unit-17",
+      "title": "Proyecto final",
+      "path": "notebooks/unit-17.ipynb",
+      "colab_url": "https://colab.research.google.com/github/opencourses-ai-colab/opencourse-fundamentos-de-transformers-d9d23ccb/blob/main/notebooks/unit-17.ipynb"
+    }
+  ]
+}
