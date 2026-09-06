@@ -2,11 +2,11 @@
   "schema_version": "opencourses.colab.v1",
   "course_id": "course_f06374b5a648d9d23ccb",
   "title": "Fundamentos de Transformers",
-  "source_hash": "9ca3f9627aa81487c6dc8c339cd306a6967d9aa9a7c53185c694f5431eb1f400",
+  "source_hash": "56a5adfc10ebbfbc3a0ec4d850a4d82a48587607fc02a374e3201e8bc79bc7d5",
   "repo_owner": "opencourses-ai-colab",
   "repo_name": "opencourse-fundamentos-de-transformers-d9d23ccb",
   "branch": "main",
-  "generated_at": "2026-09-06T00:52:58.742Z",
+  "generated_at": "2026-09-06T01:31:42.125Z",
   "notebooks": [
     {
       "unit_id": "cmtma6ysy003doe01sid8760a",
